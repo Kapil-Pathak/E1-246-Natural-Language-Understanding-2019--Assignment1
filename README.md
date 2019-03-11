@@ -2,7 +2,9 @@
 This repository contains codes, report, word embeddings for assignment1
 
 Files A1_w4.py and A1_w5.py produce the word embeddings of dimension 300 sampling 10 negative context words and 
-half window size 4 and 5 respectively.
+half window size 4 and 5 respectively. These both give superior results in Word Similarity Task and Word Anological Task.
+
+These embeddings have uploaded to google drive https://drive.google.com/drive/u/0/folders/1nN0vDfkjhC6n7R8NJ-kMR2GnTSFhE9It
 
 To run the code, type "python A1_w4.py" or "python_w5.py" in command line
 
