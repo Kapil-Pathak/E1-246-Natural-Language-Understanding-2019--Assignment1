@@ -6,7 +6,7 @@ half window size 4 and 5 respectively. These both give superior results in Word 
 
 These embeddings have been uploaded to google drive https://drive.google.com/drive/folders/1nN0vDfkjhC6n7R8NJ-kMR2GnTSFhE9It?usp=sharing with access to sawankumar@iisc.ac.in
 
-To run the code, type "python A1_w4.py" or "python_w5.py" in command line
+To run the code, type "python A1_w4.py" or "python A1_w5.py" in command line
 
 Word Similarity Task can be done by ipython notebook "Simlex Scores.ipynb" while sequentially running the snippets
 
