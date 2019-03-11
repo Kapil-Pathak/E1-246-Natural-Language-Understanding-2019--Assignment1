@@ -13,3 +13,4 @@ Word Analogical Task can be done by ipython notebook "Analogical Reasoning Task.
 For both tasks, first we need to create word embeddings as word embeddings are saved in .npy format and can not be uploaded
 on the github due to large size.
 
+For reproducbility of results word embedding of size 128 and 256 have been uploaded.
