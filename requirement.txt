@@ -1,0 +1,4 @@
+import numpy 
+import nltk
+import pickle
+import tqdm
